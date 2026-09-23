@@ -32,10 +32,7 @@ I build scalable, production-grade backend systems. Currently upskilling through
 
 ## 📈 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulmishra0&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmishra0&layout=compact&theme=radical&hide_border=true)
-
+[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulmishra0&show_icons=true&theme=radical&hide_border=true)](https://github.com/rahulmishra0)
 ---
 
 ## 📫 Connect With Me
